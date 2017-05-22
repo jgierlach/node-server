@@ -1,0 +1,19 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "This is a node server written with express.   This is another line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgierlach/node-server.git"
+  },
+  "author": "Jan-Edward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgierlach/node-server/issues"
+  },
+  "homepage": "https://github.com/jgierlach/node-server#readme"
+}
