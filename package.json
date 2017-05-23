@@ -4,7 +4,10 @@
   "description": "This is a node server written with express.   This is another line.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "pingy dev --port 3000",
+    "export": "pingy export",
+    "serve": "npm run export && node index.js"
   },
   "repository": {
     "type": "git",
