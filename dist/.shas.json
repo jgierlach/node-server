@@ -1,0 +1,61 @@
+[
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "index.js",
+        "sha": "b4095957364432751080fd228822db5183ee7beb"
+      }
+    ],
+    "outputSha": "bf38b1a647047f5c64288176dfe5bc47b6041e95",
+    "input": "index.js",
+    "output": [
+      "index.js.map",
+      "index.js"
+    ]
+  },
+  {
+    "type": "pug@2.0.0-rc.1::map::minify",
+    "inputSha": [
+      {
+        "file": "index.pug",
+        "sha": "5d1b89e2f5976c20b8c69e97d1752a6f614c4c5d"
+      }
+    ],
+    "outputSha": "fa71d3500979153418bc573506786fafe2e50ac9",
+    "input": "index.pug",
+    "output": [
+      "index.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "scripts/main.js",
+        "sha": "3c9df14f2d643afeb5b07e057db78314d72d4b88"
+      }
+    ],
+    "outputSha": "ce97e30de42eca6208a04cb5283a0b4ef847a5bd",
+    "input": "scripts/main.js",
+    "output": [
+      "scripts/main.js.map",
+      "scripts/main.js"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "styles/main.css",
+        "sha": "251b5b6e72ef49fe8ed8cb13be5775eee4278613"
+      }
+    ],
+    "outputSha": "8927ab5318a3fec1eacc65cba72e6a5815fef37a",
+    "input": "styles/main.css",
+    "output": [
+      "styles/main.css.map",
+      "styles/main.css"
+    ]
+  }
+]

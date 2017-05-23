@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.src.js"],"names":["express","require","app","set","use","static","listen","process","env","PORT","console","log"],"mappings":"AAAA,GAAIA,SAAUC,QAAQ,WAClBC,IAAMF,SAEVE,KAAIC,IAAI,QAAS,WACjBD,IAAIC,IAAI,cAAe,OAYvBD,IAAIE,IAAIJ,QAAQK,OAAO,SAEvBH,IAAII,OAAOC,QAAQC,IAAIC,MAAQ,IAAM,WACnCC,QAAQC,IAAI","file":"index.js"}
