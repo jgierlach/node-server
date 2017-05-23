@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "pingy dev",
+    "start": "pingy dev --port 3000",
     "export": "pingy export",
     "serve": "npm run export && node index.js"
   },
